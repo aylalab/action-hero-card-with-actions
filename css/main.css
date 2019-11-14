@@ -38,3 +38,8 @@ html {
 a {
   color: #000;
 }
+
+.head {
+  top: 15px;
+  right: 15px;
+}
